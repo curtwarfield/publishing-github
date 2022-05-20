@@ -1,4 +1,4 @@
-[Cast](README.md) | [Cast](Cast.md) | [Collectibles](Collectibles.md)
+[Home](README.md) | [Cast](Cast.md) | [Collectibles](Collectibles.md)
 
 <img src="images/logo_stargazers_bug.svg" alt="Stargazers Logo" style="width:300px">
 
